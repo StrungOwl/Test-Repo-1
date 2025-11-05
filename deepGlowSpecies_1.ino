@@ -1,4 +1,5 @@
 //Make really cool features with LEDSSSSSSSSS 
+//Second really cool function goes here
 
 #include <FastLED.h>
 #include "Wire.h"
