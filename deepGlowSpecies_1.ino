@@ -1,5 +1,6 @@
 //Make really cool features with LEDSSSSSSSSS 
-//Second really cool function goes here
+
+//Also made a really cool array that is wild n out.
 
 #include <FastLED.h>
 #include "Wire.h"
